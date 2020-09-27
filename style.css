@@ -1,5 +1,22 @@
 body {
     background: burlywood;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: #ce954b;
+}
+
+.assignment img {
+    width: 200px;
+    padding: 10px;
+}
+
+h1 {
+    color: #65451c;
+    text-align: center;
 
 }
